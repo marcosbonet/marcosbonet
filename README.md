@@ -30,4 +30,12 @@ VisualStudio HTML CSS JavaScript React Redux Vue Sass Git npm Node.js Express mo
 
 🗺️ Idiomas: Español (lengua materna) e Inglés: Avanzado (C1) 
 
+
+### :fire: My Stats :
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=luisherreralg&theme=default)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luisherreralg)](https://github.com/anuraghazra/github-readme-stats)
+
+
 📫 Email: Marcos.bonet@live.com.ar
